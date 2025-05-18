@@ -4,14 +4,7 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/welcome/index.html#sera-que-funciona",
-    "href": "posts/welcome/index.html#sera-que-funciona",
-    "title": "Welcome To My Blog",
-    "section": "Sera que funciona?",
-    "text": "Sera que funciona?\nesse é um teste com quarto e publicando com actions."
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "index.html",
